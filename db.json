@@ -2,9 +2,11 @@
 {
   "posts": [
     {
+      "id": 125,
       "titulo": "No puedo acceder al sistema",
       "descripcion": "El sistema rechaza mis credenciales",
-      "clienteId": "1"
+      "clienteId": 1,
+      "estado": "ABIERTO"
     }
   ]
 }
